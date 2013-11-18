@@ -10,7 +10,7 @@ class HelloWorldApp {
 		System.out.println("Hello, " + s + "!"); //add a string in the command line
 	    }
 	} else {
-		System.out.println("Hello, World!"); 
+		System.out.println("Hello, World...!"); 
 	}
     }
 }
